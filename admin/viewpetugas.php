@@ -120,7 +120,7 @@
                         <td>$row[3]</td>
                         <td>$row[4]</td>
                         <td data-label='Detail'>
-                        <center><a href='editpos.php?nm=$row[0]'><i class='material-icons'><i class='material-icons'>storage</i></a></center></td>
+                        <center><a href='editpet.php?nam=$row[0]'><i class='material-icons'><i class='material-icons'>storage</i></a></center></td>
                         </td>
                         </tr>";
                  $no++;
